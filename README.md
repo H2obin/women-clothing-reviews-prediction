@@ -19,7 +19,7 @@ This project uses the Women's Clothing E-Commerce Reviews dataset to predict whe
 - Google Colab
 
 ## Results
-Achieved Accuracy: (Put your model's accuracy score here, example 88%)
+Achieved Accuracy: 88%
 
 ## Author
-- Your Name
+- Haritam Bindua
